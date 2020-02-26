@@ -4,4 +4,8 @@ RENCANA KONTEN WPU
     *CRUD
     *NEW
   - Python
+  - Django
+    *A
+    *B
+    *C
   - Git
