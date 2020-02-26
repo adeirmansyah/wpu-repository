@@ -1,0 +1,7 @@
+RENCANA KONTEN WPU
+
+  - Databases
+    *CRUD
+    *NEW
+  - Python
+  - Git
