@@ -3,7 +3,13 @@ RENCANA KONTEN WPU
   - Databases
     *CRUD
     *NEW
+      ^A
+      ^B
+      ^C
+      
   - Python
+    *A
+    *B
   - Django
     *A
     *B
