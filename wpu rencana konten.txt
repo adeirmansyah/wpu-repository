@@ -3,10 +3,9 @@ RENCANA KONTEN WPU
   - Databases
     *CRUD
     *NEW
-      ^A
-      ^B
-      ^C
-      
+      ^1
+      ^2
+      ^3
   - Python
     *A
     *B
@@ -14,4 +13,5 @@ RENCANA KONTEN WPU
     *A
     *B
     *C
+    *D
   - Git
